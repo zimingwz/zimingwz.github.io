@@ -6,7 +6,7 @@ body, html {
   height: 90%;
   background-color: #ddd;
   color: #bfbfbf;
-  font-family: "Monaco";
+  font-family: "Monaco" "微软雅黑";
   font-size: 16px;
   display: none; }
 
@@ -58,7 +58,7 @@ li {
       line-height: 25px;
       margin: 0 0 0 10px;
       font-size: 16px;
-      font-family: "Monaco";
+      font-family: "Monaco" "微软雅黑";
       padding: 0 4px; }
     .select .input .input-btn {
       color: #fff;
@@ -76,7 +76,7 @@ li {
   .select ul li label {
     margin-top: -1px !important; }
     .select ul li label b {
-      font-family: "Monaco";
+      font-family: "Monaco" "微软雅黑";
       font-size: 12px;
       float: right;
       color: white;
